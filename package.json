@@ -1,0 +1,24 @@
+{
+  "name": "uh-oh-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:types": "tsc",
+    "lint:types:watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepassle/uh-oh-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepassle/uh-oh-typescript/issues"
+  },
+  "homepage": "https://github.com/thepassle/uh-oh-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
